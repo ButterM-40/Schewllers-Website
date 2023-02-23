@@ -1,0 +1,10 @@
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    color: #90A6C6;
+}
+
+.my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
